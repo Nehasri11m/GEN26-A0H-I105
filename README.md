@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I105
 ### Team Details
-#### **Team Name** <<DARK PROROCOL>> <br/>
+#### <<DARK PROROCOL>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
