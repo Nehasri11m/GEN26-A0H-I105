@@ -102,5 +102,10 @@ SAHAYA Shield is a proposed worker welfare initiative designed to provide struct
 - Promote accountability through documented contributions and disbursements.
 
 
+Watch our project demonstration here:
+
+▶️ [Watch SAHAYA Demo Video on YouTube](https://youtu.be/0Htqece1gsI?si=BbLuVO0wSh9jP7rp)
+
+
 
 
